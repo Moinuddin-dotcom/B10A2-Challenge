@@ -85,9 +85,6 @@ Header ul li a {
 
 .icon {
     display: none;
-    /* border: 2px solid white;
-    width: 10vw;
-    height: 10vh; */
 }
 
 .headermain {
@@ -119,7 +116,6 @@ Header ul li a {
     font-size: 18px;
     padding-bottom: 15px;
     color: gray;
-    /* color: #FFFFFF; */
 }
 
 .black-btn {
@@ -248,7 +244,6 @@ Header ul li a {
 }
 
 .change-habit-box {
-    /* background-color: aquamarine; */
     max-width: 80vw;
     margin: 20px auto;
     display: grid;
@@ -767,9 +762,6 @@ h1 {
 
     .icon {
         display: inline;
-        /* border: 2px solid white;
-        width: 10vw;
-        height: 10vh; */
     }
 
     Header {
@@ -949,49 +941,3 @@ h1 {
         justify-self: start;
     }
 }
-
-/* 
-@media screen and (min-width: 920px) {
-
-    .headermain {
-        grid-template-columns: 1fr;
-    }
-
-    .desc2 {
-        margin-top: 50px;
-    }
-
-    .box1 {
-        left: 507px;
-        top: 500px;
-    }
-
-    .box2 {
-        left: 235px;
-        top: 782px;
-    }
-
-    .background {
-        max-width: 90vw;
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-} */
