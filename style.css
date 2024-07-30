@@ -534,7 +534,9 @@ Header ul li a {
 .tableinput {
     background-color: #2c2c2c;
 }
-
+table{
+    border-collapse: collapse;
+}
 th,
 td {
     border: 1px solid #545353;
