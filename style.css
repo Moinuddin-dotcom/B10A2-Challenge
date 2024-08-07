@@ -113,6 +113,7 @@ Header ul li a {
 
 .italic {
     font-family: "Dancing Script", cursive;
+    font-size: 4.5rem;
     font-weight: 200;
     font-style: italic;
 }
