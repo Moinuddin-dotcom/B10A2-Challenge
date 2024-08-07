@@ -582,11 +582,13 @@ td {
 
 .bmi1 {
     justify-self: center;
+    margin-top: 20px;
 }
 
 .bmi2 {
     justify-self: center;
     align-self: center;
+    margin-top: 20px;
 }
 
 .calculate {
